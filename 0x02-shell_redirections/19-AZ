@@ -1,2 +1,2 @@
 #!/bin/bash
-tr cAeZ eZcA
+tr cA eZ
