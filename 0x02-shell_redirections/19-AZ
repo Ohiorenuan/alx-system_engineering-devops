@@ -1,2 +1,2 @@
-#!/bin/bash 20-hiago
-tr Ac Ze
+#!/bin/bash
+tr cAeZ eZcA
